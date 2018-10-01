@@ -24,7 +24,18 @@ git pull
 
 ola
 
-git branch <nome_branch> //cria branch
-git checkout <nome_branch> //head aponta branch
-git merge <branch> //joga oque ta na branc especificada para a branch atual
-git push -u <origin> <branch> // joga branch para repo remoto
+git branch <nome_branch> 		//cria branch
+git checkout <nome_branch> 		//head aponta branch
+git merge <branch> 				//joga oque ta na branc especificada para a branch atual
+git push -u <origin> <branch> 	// joga branch para repo remoto
+
+
+Exemplo merge:
+// branch dev
+git add .
+git commit -m "Mensagem"
+git push
+git checkout master 
+// branch master
+git merge dev
+git push
