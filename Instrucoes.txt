@@ -15,6 +15,11 @@ Primeiro push:
 
 git push --set-upstream <nome_remoto> <brench>
 
+
 git pull <nome_remote> <brench>
 
 git remote -v // lista nome dos remotes
+
+git pull
+
+ola
