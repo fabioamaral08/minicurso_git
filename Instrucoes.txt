@@ -24,6 +24,7 @@ git pull
 
 ola
 
+
 git branch <nome_branch> 		//cria branch
 git checkout <nome_branch> 		//head aponta branch
 git merge <branch> 				//joga oque ta na branc especificada para a branch atual
