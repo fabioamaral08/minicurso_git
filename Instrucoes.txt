@@ -1,6 +1,6 @@
 Inicializacao: git init
 Verificar status: git status
-Adicionar ao index: git add 'filename' || git add . (todos os arquivos)
+Adicionar ao index: git add <filename> || git add . // (todos os arquivos)
 
 Commit: git commit -m <mensagem> (Mensagem informando alterações)
 Historico de alterações: git log

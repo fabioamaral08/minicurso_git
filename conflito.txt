@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflito 1
+=======
+conflito 2
+>>>>>>> conf2
