@@ -6,3 +6,13 @@ Commit: git commit -m <mensagem> (Mensagem informando alterações)
 Historico de alterações: git log
 
 
+Repositorio remoto:
+
+git remote add <nome> <url>
+git push <nome_remote> // atualiza repositorio remoto
+
+Primeiro push:
+
+git push --set-upstream <nome_remoto> <brench>
+
+git pull
